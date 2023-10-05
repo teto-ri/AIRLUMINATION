@@ -4,7 +4,7 @@
 // 각자 자신의 정보를 입력해야 한다. 아래 3줄
 #define BLYNK_TEMPLATE_ID "TMPLkVCUOL11"
 #define BLYNK_DEVICE_NAME "Haewon"
-#define BLYNK_AUTH_TOKEN "VIJv2fKplbJmfNqcFc-R9rUjdVp0s4KC"
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
