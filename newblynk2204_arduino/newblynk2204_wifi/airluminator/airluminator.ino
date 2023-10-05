@@ -4,7 +4,7 @@
 // 각자 자신의 정보를 입력해야 한다. 아래 3줄
 #define BLYNK_TEMPLATE_ID "TMPLfEfczu3T"
 #define BLYNK_DEVICE_NAME "SmartAirPurifier"
-#define BLYNK_AUTH_TOKEN "CA3fRW9Y6iwHfdraMVYdjxCVLcdUlFc6"
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 
@@ -22,8 +22,8 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // 여기에 와이파이 정보를 넣는다. 2.4GHZ로 5GHz는 안됨
-char ssid[] = "Shinbg";
-char pass[] = "*bingo0712";
+char ssid[] = "";
+char pass[] = "";
 
 BlynkTimer timer;
 
